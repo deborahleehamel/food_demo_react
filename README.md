@@ -1,8 +1,10 @@
 # Using create-react-app with a rails server
 
-This project is a build from a tutorial at [FullStack React](git remote add origin git@github.com:deborahleehamel/food_demo_react.git)
+This project is a build from a tutorial at [FullStack React](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
 
-Includes:
+![Screenshot](/images/food_search_screenshot.png) 
+
+Includes the following implementation steps:
 
 ## Rails API
 
