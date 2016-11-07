@@ -2,13 +2,13 @@
 
 This project is a build from a tutorial at [FullStack React](https://www.fullstackreact.com/articles/how-to-get-create-react-app-to-work-with-your-rails-api/)
 
-![Screenshot](/images/food_search_screenshot.png) 
+![Screenshot](/images/food_search_screenshot.png)
 
 Includes the following implementation steps:
 
 ## Rails API
 
-* built up the app myself wit rails new `food-demo --api`
+* built up the app from scratch with rails new `food-demo --api`
 
 * created food model in `app/models/food.rb`
 
